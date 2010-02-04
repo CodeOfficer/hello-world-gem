@@ -1,0 +1,4 @@
+Manifest
+Rakefile
+helloworld.gemspec
+lib/hello_world.rb
