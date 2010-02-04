@@ -4,7 +4,7 @@ require 'echoe'
 
 Echoe.new('helloworld', '0.0.1') do |p|
   p.description    = "A gem that illustrates how to build a gem"
-  p.url            = "http://github.com/CodeOfficer/hello_world"
+  p.url            = "http://github.com/CodeOfficer/hello_world_gem"
   p.author         = "Russ Jones"
   p.email          = "spam @nospam@ codeofficer.com"
   p.ignore_pattern = ["tmp/*", "script/*"]
