@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.description = %q{A gem that illustrates how to build a gem}
   s.email = %q{spam @nospam@ codeofficer.com}
   s.extra_rdoc_files = ["lib/hello_world.rb"]
-  s.files = ["Manifest", "Rakefile", "helloworld.gemspec", "lib/hello_world.rb"]
-  s.homepage = %q{http://github.com/CodeOfficer/hello_world_gem}
+  s.files = ["Manifest", "Rakefile", "lib/hello_world.rb", "helloworld.gemspec"]
+  s.homepage = %q{http://github.com/CodeOfficer/hello-world-gem}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Helloworld"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{helloworld}
